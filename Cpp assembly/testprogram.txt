@@ -1,9 +1,0 @@
-
-
-
-LOADI R6 0x06       *iterations
-LOADI R5 0x00       *iterateur
-LOADI R4 0x01       *increment
-
-LOADI R1 0x00       *F(0) = 0
-LOAD R5 R0 0x00
